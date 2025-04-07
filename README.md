@@ -9,12 +9,15 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/oY8jQKdM7lU)
 </div>
 
-<!-- 如有动图或静态图，请替换以下链接 -->
-<!--
 <p align="center">
-  <img src="path_to_your_teaser.gif" width="80%">
+  <img src="https://github.com/luobodan/GP-UWB-calibration/blob/main/Figure/Flowchart.png?raw=true" width="80%">
+  <br><em>System Overview: Calibration and Localization Pipeline</em>
 </p>
--->
+
+<p align="center">
+  <img src="https://github.com/luobodan/GP-UWB-calibration/blob/main/Figure/Result.png?raw=true" width="80%">
+  <br><em>Experimental Results: Accuracy and Robustness in Large-Scale Environments</em>
+</p>
 
 ---
 
